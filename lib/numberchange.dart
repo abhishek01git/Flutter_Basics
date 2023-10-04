@@ -35,7 +35,7 @@ class _changbuttonState extends State<changbutton> {
           Text("Explore"),
           //Text(counter.toString()),
           Container(
-            height: 100,
+            height: 200,
             width: 55,
             color: changecolor,
           ),
